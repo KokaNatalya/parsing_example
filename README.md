@@ -5,8 +5,8 @@
 Использовался сайт интернет-магазина текстиля для дома TAG tekstil https://tagtekstil.com.ua/. (найден на сайте со списком сайтов разрешенных для парсинга).
 
 ### Библиотеки
-BeautifulSoup
-requests
-pandas
-re
-urllib.parse
+- BeautifulSoup
+- requests
+- pandas
+- re
+- urllib.parse
